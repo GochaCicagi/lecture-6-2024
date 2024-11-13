@@ -1,0 +1,11 @@
+.container{
+	width: 1180px;
+	margin: 0 auto;
+}
+
+.mydiv {
+	width: 300px;
+	height: 300px;
+	border: 2px solid darkred;
+	border-radius: 50%;
+	background-color: darkred}
